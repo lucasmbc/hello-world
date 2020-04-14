@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans!
+lucasmbc here. I like python.
